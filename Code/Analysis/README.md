@@ -1,5 +1,7 @@
+<br />
+We also present a detailed analysis to provide more supportive evidence of our arguments. To this end, we randomly selected m examples for each class of reviews considering helpfulness votes. Then, we extract Top $K$ (where $K$ = $5$) $n$-grams from each class of reviews to identify the most relevant keywords or topics in reviews to assess what aspects are most talked about the items (e.g., hotels or restaurants). Detailed in the EACL 2023 paper [Link](https://aclanthology.org/2023.findings-eacl.125/)
 
-We also present a detailed analysis to provide more supportive evidence of our arguments. To this end, we randomly selected m examples for each class of reviews considering helpfulness votes. Then, we extract Top $K$ (where $K$ = $5$) $n$-grams from each class of reviews to identify the most relevant keywords or topics in reviews to assess what aspects are most talked about the items (e.g., hotels or restaurants).
+
 
 
 
