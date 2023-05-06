@@ -1,7 +1,7 @@
 
 We also present a detailed analysis to provide more supportive evidence of our arguments. To this end, we randomly selected m examples for each class of reviews considering helpfulness votes. Then, we extract Top $K$ (where $K$ = $5$) $n$-grams from each class of reviews to identify the most relevant keywords or topics in reviews to assess what aspects are most talked about the items (e.g., hotels or restaurants). 
 
-For details, read the [EACL 2023 paper](https://aclanthology.org/2023.findings-eacl.125/)
+For details, read the [EACL 2023 paper](https://aclanthology.org/2023.findings-eacl.125/).
 
 
 The following Table shows a high overlap of $n$-grams among different classes of reviews, which further strengthen our argument that helpfulness does not entirely depend on the review text but rather the confluence of the **review text**, **reviewing history of reviewers** (*who post the reviews*), **review age** (*when the reviews are posted*). Generally, older reviews (*i.e., review age*) were present longer than the newer reviews in the platform and had more time to accumulate helpful votes.
