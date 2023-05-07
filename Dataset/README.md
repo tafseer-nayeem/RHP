@@ -1,3 +1,6 @@
+
+The Review Helpfulness Prediction (RHP) dataset is hosted on 🤗 Hugging Face with train, validation, and test splits, which can be accessed using [this link](https://huggingface.co/datasets/tafseer-nayeem/review_helpfulness_prediction). The full dataset can be accessed using this [GDrive link](https://drive.google.com/file/d/1Hte0Ul0qyxR4n6NtBqokf9ZQc_n4n8rq/view?usp=sharing). 
+
 ### Dataset Summary
 
 The success of e-commerce services is largely dependent on helpful reviews that aid customers in making informed purchasing decisions. However, some reviews may be spammy or biased, making it challenging to identify which ones are helpful. Current methods for identifying helpful reviews only focus on the review text, ignoring the importance of who posted the review and when it was posted. Additionally, helpfulness votes may be scarce for less popular products or recently submitted reviews. To address these challenges, the we introduce a dataset and task for review helpfulness prediction, incorporating the reviewers' attributes and review date, and build the dataset by scraping reviews from [TripAdvisor](https://www.tripadvisor.com/).
