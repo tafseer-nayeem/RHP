@@ -29,13 +29,13 @@ One example from the `test` split of the dataset is given below in JSON format.
 ```
 ### Data Fields
 
--  'user_review_posted': An integer representing the number of reviews posted by the reviewer.
--  'user_total_helpful_votes': An integer representing the cumulative helpful votes received by the reviewer.
--  'expertise': A normalized floating point number representing the mean number of helpful votes received per review.
--  'user_cities_visited': An integer representing the number of cities visited by the reviewer.
--  'review_days': A normalized floating point number representing the relative age of a review in days.
--  'helpful_class': An integer representing the degree of helpfulness of a review.
--  'review_text': A string representing the review.
+-  `user_review_posted`: An integer representing the number of reviews posted by the reviewer.
+-  `user_total_helpful_votes`: An integer representing the cumulative helpful votes received by the reviewer.
+-  `expertise`: A normalized floating point number representing the mean number of helpful votes received per review.
+-  `user_cities_visited`: An integer representing the number of cities visited by the reviewer.
+-  `review_days`: A normalized floating point number representing the relative age of a review in days.
+-  `helpful_class`: An integer representing the degree of helpfulness of a review.
+-  `review_text`: A string representing the review text.
 
 ### Data Splits
 
