@@ -1,11 +1,5 @@
 # RHP
 
-## Code & Dataset (*coming soon*)
-
-
-
-
-
 
 
 ## Citation
